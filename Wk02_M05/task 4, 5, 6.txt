@@ -1,0 +1,15 @@
+Task4 How many hosts are live in your subnet?
+
+Answer: 3 hosts are live (including my PC)
+
+Task5 What are the IP addresses of the live hosts?
+
+Answer: 192.168.100.1 
+	192.168.100.3
+	192.168.100.5
+
+Task6: What are the MAC addresses of the live hosts?
+	
+Answer: 88:BC:C1:3F:CA:CC
+	AE:C6:51:89:24:32
+	D4-D2-52-B7-EC-6A
